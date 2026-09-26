@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+api_key.txt
+alternate_token.txt
+chat/
+knowledge_files/
+logs/
+results/
+datasets/KG/
+datasets/knowledge_*/
