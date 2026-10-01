@@ -3,12 +3,10 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2609.36689-b31b1b.svg)](https://arxiv.org/abs/2609.36689)
-[![Homepage](https://img.shields.io/badge/Homepage-CHAIN-black.svg)](https://qwenqking.github.io/Chain/)
-
+[![Homepage](https://img.shields.io/badge/Homepage-CHAIN-black.svg)](https://qwenqking.github.io/Chain-Homepage/)
 ### **CHAIN: Calibrated LLM Forecasting via Causal-Temporal Hypergraph Inference**
 
-[📄 Paper](https://arxiv.org/abs/2609.36689) | [🌐 Homepage](https://qwenqking.github.io/Chain/) | [💬 Contact](mailto:wenjinliu23@outlook.com)
-
+[📄 Paper](https://arxiv.org/abs/2609.36689) | [🌐 Homepage](https://qwenqking.github.io/Chain-Homepage/) | [💬 Contact](mailto:wenjinliu23@outlook.com)
 </div>
 
 ---
